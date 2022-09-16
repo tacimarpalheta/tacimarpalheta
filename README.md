@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou Tacimar Palheta 👋
 
-<!--
-**tacimarpalheta/tacimarpalheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formada em Ciências Contábeis
 
-Here are some ideas to get you started:
+Atualmente sou Estudante do Curso de Front Ent no SENAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=tacimarpalheta&show_icons=true&theme=synthwave">
+
+<div>
+
+### ❤️ Let's get connected:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tacimar.correa@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](taci.correa@hotmail.com)

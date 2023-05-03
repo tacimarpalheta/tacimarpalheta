@@ -2,7 +2,7 @@
 
 Formada em Ciências Contábeis
 
-Atualmente sou Estudante do Curso de Front End no SENAI
+Sou programadora Front-End formada pelo SENAI.
 
 <div>
 

@@ -1,12 +1,11 @@
 ### Olá Pessoal! Eu sou Tacimar Palheta, sejam bem-vindos ao meu perfil do GitHub! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 🌱 Atualmente estou me especializando em Desenvolvimento Front-end
-
 <div>
-
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=tacimarpalheta&show_icons=true&theme=synthwave">
-
-<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacimarpalheta&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tacimarpalheta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ </div>
  
 ### 🛠️ Ferramentas e Tecnologias: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -19,7 +18,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
  
-
 ### ❤️ Contatos:
 <a href = "mailto:tacimar.correa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "mailto:taci.correa@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>

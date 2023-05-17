@@ -1,9 +1,6 @@
-### Olá Devs! Eu sou Tacimar Palheta 👋
-Bem vindo ao meu perfil GitHub!
+### Olá Pessoal! Eu sou Tacimar Palheta, sejam bem-vindos ao meu perfil do GitHub!  👋
 
-Formada em Ciências Contábeis
-
-Sou programadora Front-End formada pelo SENAI.
+-🌱 Atualmente estou me especializando em Desenvolvimento Front-end
 
 <div>
 
@@ -27,3 +24,8 @@ Sou programadora Front-End formada pelo SENAI.
 <a href = "mailto:tacimar.correa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "mailto:taci.correa@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href=https://www.linkedin.com/in/tacimar-palheta-correa-733567233 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+### 🎓 Formação Acadêmica e Certificações:
+Formada em Ciências Contábeis - Universidade da Amazônia/PA
+Programadora Front-End - SENAI/SP. 
+ 

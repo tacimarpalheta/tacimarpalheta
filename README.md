@@ -1,4 +1,4 @@
-### Olá! Eu sou Tacimar Palheta 👋
+### Olá Devs! Eu sou Tacimar Palheta 👋
 Bem vindo ao meu perfil GitHub!
 
 Formada em Ciências Contábeis

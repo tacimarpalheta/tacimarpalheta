@@ -13,4 +13,4 @@ Sou programadora Front-End formada pelo SENAI.
 ### ❤️ Let's get connected:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tacimar.correa@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](taci.correa@hotmail.com)
-
+<a href=https://www.linkedin.com/in/tacimar-palheta-correa-733567233 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

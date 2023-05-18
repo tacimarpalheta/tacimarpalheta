@@ -6,11 +6,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tacimarpalheta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacimarpalheta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
 <br />
  
 ## 🛠️ Ferramentas e Tecnologias:
-<div style="display: inline_block"><br> 
+<div style="display: inline_block"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -21,22 +20,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
 </div>
-
 <br />
  
 ## ❤️ Contatos:
- 
-<a href = "mailto:tacimar.correa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:tacimar.correa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "mailto:taci.correa@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href=https://www.linkedin.com/in/tacimar-palheta-correa-733567233 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<br />
+ <br />
  
 ## 🎓 Formação Acadêmica e Certificações:
  
 - Formada em Ciências Contábeis - Universidade da Amazônia/PA
 - Programadora Front-End - SENAI/SP 
-
 
  ![Snake animation](https://github.com/tacimarpalheta/tacimarpalheta/blob/output/github-contribution-grid-snake.svg)
 
